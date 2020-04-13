@@ -52,24 +52,7 @@ cd Bike_sharing_pattern_detection
 
 ```
 
-2. Install PyTorch and torchvision; this should install the latest version of PyTorch.
-	
-	- __Linux__ or __Mac__: 
-	```
-	conda install pytorch torchvision -c pytorch 
-	```
-	- __Windows__: 
-	```
-	conda install pytorch -c pytorch
-	pip install torchvision
-	```
-
-3. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
-```
-pip install -r requirements.txt
-```
-
-4. That's it!, Now run the project using following command, check you default browser and open dlnd_face_generation.ipynb file
+2. That's it!, Now run the project using following command, check you default browser and open Your_first_neural_network.ipynb file
 
 ```
 jupyter notebook
